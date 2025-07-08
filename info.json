@@ -1,0 +1,11 @@
+{
+    "name": "ESBU",
+    "symbol": "ESBU",
+    "type": "coin",
+    "decimals": 18,
+    "description": "ESBU \u2013 Every Shit Blows Up. A meme coin for those who want to rise from nothing to everything.",
+    "website": "https://esbucoin.com",
+    "explorer": "https://bscscan.com/token/0xE4bb6Bd81d19974fCc6BB08B178369b4858F6161",
+    "status": "active",
+    "id": "0xE4bb6Bd81d19974fCc6BB08B178369b4858F6161"
+}
